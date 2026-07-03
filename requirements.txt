@@ -24,4 +24,3 @@ python-dateutil
 deep-translator==1.11.4
 pytz
 typing_extensions
-prodia
